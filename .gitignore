@@ -1,0 +1,5 @@
+build/*
+dist/*
+inageoportal.egg-info/*
+___pycache__/*
+inageoportal/__pycache__/*
